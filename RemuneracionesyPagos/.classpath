@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="Librerías/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="Librerías/commons-beanutils-1.7.jar"/>
+	<classpathentry kind="lib" path="Librerías/commons-collections-2.1.jar"/>
+	<classpathentry kind="lib" path="Librerías/commons-digester-1.7.jar"/>
+	<classpathentry kind="lib" path="Librerías/commons-javaflow-20060411.jar"/>
+	<classpathentry kind="lib" path="Librerías/commons-logging-1.0.2.jar"/>
+	<classpathentry kind="lib" path="Librerías/DateChooser.jar"/>
+	<classpathentry kind="lib" path="Librerías/edisoncorSX.jar"/>
+	<classpathentry kind="lib" path="Librerías/iText-2.1.7.jar"/>
+	<classpathentry kind="lib" path="Librerías/itextpdf-5.5.1.jar"/>
+	<classpathentry kind="lib" path="Librerías/jasperreports-3.5.2-applet.jar"/>
+	<classpathentry kind="lib" path="Librerías/jasperreports-3.5.2.jar"/>
+	<classpathentry kind="lib" path="Librerías/jasperreports-5.0.0.jar"/>
+	<classpathentry kind="lib" path="Librerías/jcalendar-1.3.3.jar"/>
+	<classpathentry kind="lib" path="Librerías/jcalendar.jar"/>
+	<classpathentry kind="lib" path="Librerías/jdt-compiler.jar"/>
+	<classpathentry kind="lib" path="Librerías/libreria para procedimientos almacenados/mysql-connector-java-5.1.6-bin.jar"/>
+	<classpathentry kind="lib" path="Librerías/mysql-connector-java-3.0.16-ga-bin.jar"/>
+	<classpathentry kind="lib" path="Librerías/mysql-connector-java-3.1.11a-bin.jar"/>
+	<classpathentry kind="lib" path="Librerías/mysql-connector-java-5.0.7-bin.jar"/>
+	<classpathentry kind="lib" path="Librerías/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="lib" path="Librerías/mysql-connector-java-6.0.6.jar"/>
+	<classpathentry kind="lib" path="Librerías/swing-layout-1.0.4.jar"/>
+	<classpathentry kind="lib" path="Librerías/swingx-core-1.6.2.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
